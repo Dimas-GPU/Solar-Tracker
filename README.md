@@ -1,11 +1,12 @@
 # Solar Tracker
 
-Some sources of energy just wants to be tracked
+- Some sources of energy just wants to be tracked
+- Designed by our lecturer : Harry Prasetyo Rosianto, S.Tr.T
+- Developed by : Dimas Rafi Adhipramana and Muhammad Ahadan Fauzi
 
 ## Authors
-
-- [@Ahadan1](https://www.github.com/Ahadan1)
-- [@Dimas-GPU](https://github.com/Dimas-GPU)
+- [@Ahadan1](https://www.github.com/Ahadan1) [![@Ahadan1](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ahadan1)
+- [@Dimas-GPU](https://github.com/Dimas-GPU) [![@Dimas-GPU](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dimas-GPU)
 
 ## Badges
 
